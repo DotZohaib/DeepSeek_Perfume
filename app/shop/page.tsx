@@ -122,7 +122,7 @@ const ShopPage = () => {
 
                     {/* Category Badge */}
                     <div className="absolute top-4 right-4">
-                      <span className="px-3 py-1 glass text-xs uppercase tracking-wider text-gold-500 font-medium rounded-full">
+                      <span className="px-3 py-1 glass text-xs uppercase tracking-wider text-black font-medium rounded-full">
                         {product.category}
                       </span>
                     </div>
